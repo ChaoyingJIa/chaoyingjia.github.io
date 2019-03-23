@@ -1,0 +1,30 @@
+html {
+    background: #b0e0e6;
+    -webkit-font-smoothing: antialiased;
+    font-family:Georgia
+}
+h2,h3,h4{
+    color:black;
+    font-size:30px
+}
+.purple{
+    color:purple;
+    font-size:20px;
+    padding:5px;
+    margin-left:5px
+}
+.big{
+    font-size:25px;
+}
+.normal{
+    margin-left:20px
+}
+ol{
+    margin-left:30px
+    padding:5px;
+}
+li{
+    color:black;
+    font-size:15px;
+    padding:5px
+}
